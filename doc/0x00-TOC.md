@@ -1,0 +1,15 @@
+# Table of Contents
+
+- [0x01 - Introduction](0x01-Introduction.md)
+    1. [About Goca Scanner](0x01-Introduction.md#about-goca-scanner)
+    2. [About this project](0x01-Introduction.md#about-this-project)
+- [0x02 - Plugin System](0x02-PluginSystem.md)
+    1. [Registering a plugin](0x02-PluginSystem.md#registering-a-plugin)
+    1. [Communication Plugin - GOCA&copy;](0x02-PluginSystem.md#communication-plugin---goca)
+        1. [Global Object](0x02-PluginSystem.md#global-object)
+        1. [Entry Point](0x02-PluginSystem.md#entry-point)
+        1. [Emitting `goca.Output`](0x02-PluginSystem.md#emitting-gocaoutput)
+    1. [GOCA&copy; integration](0x02-PluginSystem.md#goca-integration)
+- [0x03 - CLI Usage](0x03-CliUsage.md)
+- [0x04 - GUI Usage](0x04-GuiUsage.md)
+- [0x05 - Installing from Source](0x05-InstallingFromSource.md)
