@@ -1,7 +1,8 @@
 <h2 align="center">The Goca Book</h1>
 <h2 align="center">v0.1.0</h1>
 
-<img align="center" src="img/Goca_book.png">
+
+<h2 align="center"><img align="center" src="img/Goca_book.png"></h1>
 
 <h3 align="center"><pre>Goca.io Team &copy;</pre></h3>
 
