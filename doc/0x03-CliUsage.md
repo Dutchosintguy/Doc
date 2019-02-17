@@ -150,6 +150,31 @@ Goca -term "Chema Alonso"
 It is possible also to specify which file type do you want to search:
 
 ```
-$ Goca -url "target.com" -term "Money" -filetype docx,xlsx,mp3
-``` 
-
+$ Goca -url google.com -filetype pdf
+{
+	"main_type": "PDF",
+	"target": "https://research.google.com/pubs/archive/44268.pdf",
+	"create_date": "2015-06-05T10:32:36-04:00",
+	"modify_date": "2015-08-27T15:53:14+02:00",
+	"metadata_date": "2015-08-27T15:53:14+02:00",
+	"creator_tool": "Causal Productions Pty Ltd",
+	"document_id": "uuid:812cbd70-5b7b-472c-be5c-f3c3d0cd2c19",
+	"instance_id": "uuid:bcc79f57-f422-41af-a873-36fb75d00f84",
+	"content_type": "application/pdf",
+	"title": "Large Vocabulary Automatic Speech Recognition for Children",
+	"producer": "pdfTeX-1.40.14"
+}
+{
+	"main_type": "PDF",
+	"target": "https://research.google.com/pubs/archive/43970.pdf",
+	"create_date": "2015-06-10T14:20:35-07:00",
+	"modify_date": "2015-08-27T15:52:42+02:00",
+	"metadata_date": "2015-08-27T15:52:42+02:00",
+	"creator_tool": "Causal Productions Pty Ltd",
+	"document_id": "uuid:6bf36bef-41f2-40b3-be6b-91819f1aeb83",
+	"instance_id": "uuid:035a66fd-f37b-449a-b346-a65504bd8434",
+	"content_type": "application/pdf",
+	"title": "Locally-Connected and Convolutional Neural Networks for Small Footprint Speaker Recognition",
+	"producer": "pdfTeX-1.40.14"
+}
+```
